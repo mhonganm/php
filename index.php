@@ -7,5 +7,6 @@
 <?php echo '<p>mitä kuuluu</p>'; ?>
 <?php echo '<p>tämän pitäs nyt laukasta uusi versio</p>'; ?>
 <?php echo '<p>ja jälleen uusi versio</p>'; ?>
+<?php echo '<p>hmmm</p>'; ?>
 </body>
 </html>
