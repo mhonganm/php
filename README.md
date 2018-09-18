@@ -1,2 +1,2 @@
 # php
-php codes
+Simple php codes for testing jenkins on Openshift
