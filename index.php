@@ -9,5 +9,6 @@
 <?php echo '<p>ja jälleen uusi versio</p>'; ?>
 <?php echo '<p>Jenkins demo</p>'; ?>
 <?php echo '<p>Lisätty rivi 25.9</p>'; ?>
+<?php echo '<p>Juhan Demo</p>'; ?>
 </body>
 </html>
