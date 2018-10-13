@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> PHP test -mikko</title>
+<title> PHP test - Jenkins - Openshift</title>
 </head>
 <body>
 <?php echo '<h1>Heippa maailma</h1>'; ?>
