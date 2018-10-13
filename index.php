@@ -10,7 +10,5 @@
 <?php echo '<p>Jenkins demo</p>'; ?>
 <?php echo '<p>Lisätty rivi 25.9</p>'; ?>
 <?php echo '<p>Juhan Demo</p>'; ?>
-<?php echo '<p>Jenkins demo</p>'; ?>
-<?php echo '<p>Terve janne, mitä kuuluu?</p>'; ?>
 </body>
 </html>
