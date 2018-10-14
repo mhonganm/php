@@ -11,8 +11,8 @@
 <?php echo '<p>Lisätty rivi 25.9</p>'; ?>
 <?php echo '<p>Juhan Demo</p>'; ?>
 <?php echo '<p>testi2 14.10.</p>'; ?>
-  <?php echo '<p>testi2 14.10.</p>'; ?> 
-  <?php echo '<p>testi2 14.10.</p>'; ?> 
-  <?php echo '<p>testi2 14.10.</p>'; ?> 
+<?php echo '<p>testi2 14.10.</p>'; ?> 
+<?php echo '<p>testi3 14.10.</p>'; ?> 
+<?php echo '<p>testi4 14.10.</p>'; ?> 
 </body>
 </html>
