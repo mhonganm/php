@@ -10,6 +10,6 @@
 <?php echo '<p>Jenkins demo</p>'; ?>
 <?php echo '<p>Lisätty rivi 25.9</p>'; ?>
 <?php echo '<p>Juhan Demo</p>'; ?>
-<?php echo '<p>nopea testi /mikko</p>'; ?>
+<?php echo '<p>nopea testi2 /mikko</p>'; ?>
 </body>
 </html>
