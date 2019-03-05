@@ -15,5 +15,6 @@
 <?php echo '<p>nopea testi2 /mikko</p>'; ?>
 <?php echo '<p>nopea testi2 /mikko</p>'; ?>
 <?php echo '<p>nopea testi3 /mikko</p>'; ?>
+<?php echo '<p>gorn is </p>'; ?>
 </body>
 </html>
