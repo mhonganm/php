@@ -20,6 +20,7 @@
 $d1=strtotime("June 25");
 $d2=ceil(($d1-time())/60/60/24);
 echo "vielä " . $d2 ." päivää juhannukseen.";
+echo "<p style='text-align:center;font-size:120%;font-family:tahoma'> " . $d2 ." päivää juhannukseen.</p>";
 ?>
   
   
