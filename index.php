@@ -13,7 +13,7 @@
 <?php echo '<p style="text-align:left;font-size:200%;font-family:impact">CI/CD demo jenkinsiä käyttäen</p>'; ?>
 <?php echo "<p style='text-align:center;font-size:120%;font-family:arial'>Serverin aika: " . date("h:i:sa")."</p>"; ?>
 <?php date_default_timezone_set("Europe/Helsinki"); 
-      echo "<p style='text-align:center;font-size:140%;font-family:arial'> " . date("Y.m.d") . " " . date("h:i:sa"); ?>
+      echo "<p style='text-align:center;font-size:140%;font-family:arial'>"Päivä ja aika: " . date("Y.m.d") . " " . date("h:i:sa"); ?>
 <?php date_default_timezone_set("Europe/Helsinki"); echo "Päivä ja aika: " . date("Y.m.d") . " " . date("h:i:sa"); ?>
 </body>
 </html>
