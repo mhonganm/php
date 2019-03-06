@@ -10,7 +10,7 @@
   
 <?php echo '<p>mitä kuuluu?</p>'; ?>
 <?php echo '<p style="text-align:right;font-size:160%;font-family:arial">Valtori pilvipäivä 14.3.</p>'; ?>
-<?php echo '<p style="text-align:left;font-size:200%;font-family:impact>CI/CD demo jenkinsiä käyttäen</p>'; ?>
+<?php echo '<p style="text-align:left;font-size:200%;font-family:impact">CI/CD demo jenkinsiä käyttäen</p>'; ?>
 <?php echo "The time is " . date("h:i:sa"); ?>
 </body>
 </html>
