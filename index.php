@@ -9,7 +9,7 @@
 <!--<?php echo '<h1>Heippa maailma</h1>'; ?>-->
   
 <?php echo '<p>mitä kuuluu?</p>'; ?>
-<?php echo '<p style="text-align:right">Valtori pilvipäivä 14.3.</p>'; ?>
+<?php echo '<p style="text-align:right;font-size:160%;font-family:arial">Valtori pilvipäivä 14.3.</p>'; ?>
 <?php echo '<p>CI/CD demo jenkinsiä käyttäen</p>'; ?>
 <?php echo "The time is " . date("h:i:sa"); ?>
 </body>
