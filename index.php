@@ -11,7 +11,7 @@
 <?php echo '<p>mitä kuuluu?</p>'; ?>
 <?php echo '<p style="text-align:right;font-size:160%;font-family:arial">Valtori pilvipäivä 14.3.</p>'; ?>
 <?php echo '<p style="text-align:left;font-size:200%;font-family:impact">CI/CD demo jenkinsiä käyttäen</p>'; ?>
-<?php echo "<p style='text-align:center;font-size:120%;font-family:arial'>Serverin aika:" . date("h:i:sa")"</p>"; ?>
+<?php echo "<p style='text-align:center;font-size:120%;font-family:arial'>Serverin aika:" . date("h:i:sa")."</p>"; ?>
 <?php date_default_timezone_set("Europe/Helsinki"); echo "Päivä ja aika: " . date("Y.m.d") . " " . date("h:i:sa"); ?>
 </body>
 </html>
