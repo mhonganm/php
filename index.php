@@ -5,7 +5,7 @@
 <body>
 
 <?php echo '<h1 style="background-color:rgba(255, 99, 71, 0.5);font-family:verdana;text-align:center;">Heippa Maailma</h1>'; ?>
-#<?php echo '<h1>Heippa maailma</h1>'; ?>
+<!--<?php echo '<h1>Heippa maailma</h1>'; ?>-->
   
 <?php echo '<p>mitä kuuluu</p>'; ?>
 <?php echo '<p>tämän pitäs nyt laukasta uusi versio</p>'; ?>
