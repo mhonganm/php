@@ -3,8 +3,8 @@
 <title> PHP test - Jenkins - Openshift</title>
 </head>
 <!--<body>-->
-<body style="background-color:lemonchiffon;">
-  
+<!--<body style="background-color:lemonchiffon;">-->
+<body style="background-color:powderblue;">  
 <?php echo '<h1 style="background-color:rgba(255, 99, 71, 0.5);font-family:verdana;text-align:center;">Heippa Maailma</h1>'; ?>
 <!--<?php echo '<h1>Heippa maailma</h1>'; ?>-->
   
